@@ -32,8 +32,7 @@ Goal:彼得贏的機率、兩人平手的機率、彼得輸的機率(數字四�
   
 2. 再來看兩人比點數的實驗
 
-  這個實驗中的樣本空間大小為<img src="https://render.githubusercontent.com/render/math?math=4^9> x 
-  <img src="https://render.githubusercontent.com/render/math?math=6^6>
+  這個實驗中的樣本空間大小為 4^9 x 6^6
   
   而此樣本空間中的事件為，彼得贏、兩人平手、彼得輸，共3種事件
   
